@@ -1,0 +1,18 @@
+{
+    "source_dmg": "/Users/captam3rica/Git_Clones/DMGs/osx-10.15.2-19C57.apfs.dmg",
+    "output_dir": "/Volumes/Tholos/Virtual Machines",
+    "output_name": "Catalina-10.15.2-UIE",
+    "cache": false,
+    "hw_version": 16,
+    "mem_size": 2048,
+    "disk_type": 0,
+    "bridged": true,
+    "mac_address": "",
+    "enable3d": false,
+    "vnc_port": 5901,
+    "vnc_passwd": "",
+    "hw_model": "MacBookPro15,1",
+    "snapshot": true,
+    "snapshot_name": "pre-boot",
+    "fusion_path": "/Applications/VMware Fusion.app"
+}
